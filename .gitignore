@@ -1,0 +1,12 @@
+# Локальные настройки
+config.env
+.env
+
+# Сборка и отчёты тестов
+/bin/
+/coverage.out
+/coverage.html
+*.test
+
+# IDE
+.idea/
